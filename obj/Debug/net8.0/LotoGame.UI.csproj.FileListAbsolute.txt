@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\bin\Debug\net8.0\LotoGame.UI.exe
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\bin\Debug\net8.0\LotoGame.UI.deps.json
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\bin\Debug\net8.0\LotoGame.UI.runtimeconfig.json
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\bin\Debug\net8.0\LotoGame.UI.dll
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\bin\Debug\net8.0\LotoGame.UI.pdb
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.AssemblyInfo.cs
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.dll
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\refint\LotoGame.UI.dll
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.pdb
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\LotoGame.UI.genruntimeconfig.cache
+C:\Users\user\Desktop\LotoGame\LotoGame.UI\obj\Debug\net8.0\ref\LotoGame.UI.dll
